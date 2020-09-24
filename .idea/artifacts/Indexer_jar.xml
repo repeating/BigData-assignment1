@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Indexer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Indexer_jar</output-path>
+    <root id="archive" name="cards.jar">
+      <element id="module-output" name="cards" />
+    </root>
+  </artifact>
+</component>
